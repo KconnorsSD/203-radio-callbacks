@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 myheading1='How to use callbacks'
 tabtitle = 'kjcradio'
 list_of_options=['fear factor', 'correlation', 'git commit', 'just testing']
-list_of_images=['mlimage.jpeg', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
+list_of_images=[ 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'mlimage.jpeg' ]
 sourceurl = 'https://kjc-radio-callback.herokuapp.com/'
 githublink = 'https://github.com/KconnorsSD/203-radio-callbacks'
 
